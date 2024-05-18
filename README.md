@@ -1,5 +1,8 @@
 # <p align="center">Q Learning Algorithm</p>
 
+### DEVELOPED BY: SREEVALSAN V
+# REGISTER NUMBER: 212223240158
+
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
 
